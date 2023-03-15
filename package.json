@@ -24,7 +24,7 @@
     "puppeteer": "^13.1.2",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-recaptcha": "^3.4.0",
-    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
     "unique-names-generator": "^4.5.0"
   }
 }
